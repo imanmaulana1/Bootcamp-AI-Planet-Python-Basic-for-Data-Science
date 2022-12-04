@@ -1,1 +1,1 @@
-# Python-Basic-for-Data-Science-Bootcamp-AI-Planet
+# Free bootcamp from https://aiplanet.com/
